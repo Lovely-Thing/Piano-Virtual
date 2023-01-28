@@ -13,7 +13,7 @@ A program created using python and pygame to visualise and play piano midi files
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/Lovely-Thing/Piano-Virtual.git
 ```
 
 Go to the project directory
